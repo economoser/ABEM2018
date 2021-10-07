@@ -3,7 +3,7 @@
 
 ## Guide to Files
 
-Data from RAIS and PIA is confidential and therefore not uploaded as part of the files. The code to replicate all results has been included in the following files.
+The RAIS and PIA datasets are confidential and therefore not uploaded as part of the files. The code to replicate all results has been included in the following files.
 
 1. **[0_MASTER.do](0_MASTER.do)**: This is the master file. All other files should be executed from this file with the appropriate switches (currently set).
 2. **[MINCER.do](MINCER.do)**: Runs mincer regressions.
