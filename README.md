@@ -20,4 +20,4 @@ The RAIS and PIA datasets are confidential and therefore not uploaded as part of
 
 ## References
 
-[Alvarez, Jorge and Felipe Benguria and Niklas Engbom and Christian Moser. 2018. "Firms and the Decline in Earnings Inequality in Brazil." American Economic Journal: Macroeconomics, 2018, 10(1): 149-189.](https://www.aeaweb.org/articles?id=10.1257/mac.20150355)
+[Alvarez, Jorge and Felipe Benguria and Niklas Engbom and Christian Moser. 2018. "Firms and the Decline in Earnings Inequality in Brazil." American Economic Journal: Macroeconomics, 10(1): 149-189.](https://www.aeaweb.org/articles?id=10.1257/mac.20150355)
